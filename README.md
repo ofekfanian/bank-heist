@@ -9,8 +9,16 @@
 
 <p align="center"><b>Pick a side, plan the job, and survive the city.</b></p>
 
+---
+
+## 🎥 Final project video
+
 <p align="center">
-  <a href="https://github.com/ofekfanian/bank-heist/releases/tag/v1.0">🎥 Watch the final project video</a>
+  <a href="https://github.com/ofekfanian/bank-heist/releases/download/v1.0/FinalProject.mp4">
+    <img src="docs/getaway.jpg" alt="Watch the final project video" width="720">
+  </a>
+  <br>
+  <a href="https://github.com/ofekfanian/bank-heist/releases/download/v1.0/FinalProject.mp4"><b>▶ Watch the video</b></a> · 3:15 · <a href="https://github.com/ofekfanian/bank-heist/releases/tag/v1.0">release page</a>
 </p>
 
 ---
