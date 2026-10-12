@@ -4,6 +4,8 @@ A GTA-style bank heist game built in Unity for the Game Development final projec
 
 Pick a side, plan the job, and survive the city.
 
+🎥 **[Watch the final project video](https://github.com/ofekfanian/bank-heist/releases/tag/v1.0)**
+
 ## Gameplay
 
 - **Main menu** – play as a **Robber**, a **Cop** or a **Bystander**
@@ -36,7 +38,7 @@ Pick a side, plan the job, and survive the city.
 To keep the repository small, the following are left out:
 
 - `Library/`, `Logs/`, `Temp/`, `UserSettings/` – Unity regenerates them when the project opens
-- Screen recordings and videos
+- Raw screen recordings (the final video is attached to the [v1.0 release](https://github.com/ofekfanian/bank-heist/releases/tag/v1.0))
 - Asset files larger than 20 MB – Mixamo characters/animations, plus a few vehicle and tree models. Download them again into the same folders under `Assets/` (Mixamo: <https://www.mixamo.com>).
 
 ## Credits
