@@ -11,19 +11,19 @@
 
 ---
 
-## 🎥 Final project video
+## Final project video
 
 <p align="center">
   <a href="https://github.com/ofekfanian/bank-heist/releases/download/v1.0/FinalProject.mp4">
     <img src="docs/getaway.jpg" alt="Watch the final project video" width="720">
   </a>
   <br>
-  <a href="https://github.com/ofekfanian/bank-heist/releases/download/v1.0/FinalProject.mp4"><b>▶ Watch the video</b></a> · 3:15 · <a href="https://github.com/ofekfanian/bank-heist/releases/tag/v1.0">release page</a>
+  <a href="https://github.com/ofekfanian/bank-heist/releases/download/v1.0/FinalProject.mp4"><b>Watch the video</b></a> · 3:15 · <a href="https://github.com/ofekfanian/bank-heist/releases/tag/v1.0">release page</a>
 </p>
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 <table>
   <tr>
@@ -36,7 +36,7 @@
   </tr>
 </table>
 
-## 🎮 Gameplay
+## Gameplay
 
 - **Main menu** – play as a **Robber**, a **Cop** or a **Bystander**
 - **Three scenes** – City, Bank and Vault, with HP and gold carried between them
@@ -46,7 +46,7 @@
 - **Drivable getaway vehicles**, with a police response of cruisers, a SWAT truck and a helicopter
 - Win / lose messages, wanted stars and a minimap
 
-## 🚀 Getting started
+## Getting started
 
 1. Install Unity **6000.5.7f1** with Universal 3D (URP) support.
 2. Open this folder in Unity Hub.
@@ -54,7 +54,7 @@
 4. Choose **Tools ▸ Bank Heist ▸ Build All** to generate the scenes.
 5. Press Play, or use the **Test:** menu items to jump straight into a scene.
 
-## 🗂️ Project layout
+## Project layout
 
 | Path | Contents |
 |---|---|
@@ -63,7 +63,7 @@
 | `Assets/Mixamo` | Character animations |
 | `_ref` | Reference scripts from earlier homework |
 
-## 📦 Not included
+## Not included
 
 To keep the repository small, the following are left out:
 
@@ -71,6 +71,6 @@ To keep the repository small, the following are left out:
 - Raw screen recordings (the final video is on the [v1.0 release](https://github.com/ofekfanian/bank-heist/releases/tag/v1.0))
 - Asset files larger than 20 MB – Mixamo characters/animations plus a few vehicle and tree models. Download them again into the same folders under `Assets/` ([Mixamo](https://www.mixamo.com)).
 
-## 🙏 Credits
+## Credits
 
 Vehicle and prop credits are in [`Assets/Heist/Vehicles/CREDITS.txt`](Assets/Heist/Vehicles/CREDITS.txt). Fonts: Bebas Neue, Barlow Condensed, Anton (OFL). Animations: Mixamo.
